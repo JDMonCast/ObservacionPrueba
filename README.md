@@ -15,3 +15,5 @@ Significa subir o enviar los cambios locales de un repositorio de código a un r
 Es una solicitud para que los cambios de una rama de un repositorio se incorporen a otra, generalmente la principal.
 # ¿Qué es merge?
 Es el proceso de combinar dos o más ramas de código en una sola.
+
+# HAMBURGER 🗣️🔥🔥🔥
